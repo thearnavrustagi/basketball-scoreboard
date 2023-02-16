@@ -1,0 +1,115 @@
+:root {
+	--dark-mode-primary: #00ff66;
+	--dark-mode-secondary: #fff;
+	--dark-mode-bg: #000;
+	--light-mode-primary: #ff0066;
+	--light-mode-secondary: #000;
+	--light-mode-bg: #fff;
+	--primary: #ff0066;
+	--secondary: #000;
+	--bg: #fff;
+}
+* {
+	font-family: 'Playfair Display', serif;
+	font-weight: 200;
+	color: var(--secondary);
+	background-color: var(--bg);
+	padding:0;
+	margin:0;
+}
+
+body {
+	height: 105vh;
+	margin: -5vh;
+	overflow:hidden;
+}
+
+.timer {
+	font-family: 'Inter', sans-serif; 
+	color: var(--primary);
+	font-weight:400;
+	font-size: 11vw;
+	text-align: center;
+}
+
+.left-team > * {
+	text-align: right;
+}
+
+.right-team > *{
+	text-align: left;
+}
+.team-name {
+	font-family: 'Inter', sans-serif;
+	font-weight:900;
+	font-size:9vw;
+}
+
+.score {
+	font-family: 'Inter', sans-serif;
+	font-weight: 400;
+	font-size:9vw
+}
+
+.fouls {
+	font-family: 'Inter', sans-serif;
+	font-size:3vw;
+	color: var(--primary);
+}
+
+.members {
+	font-size:2.4rem;
+	font-weight: 200;
+	cursor: pointer;
+	display:inline;
+}
+
+.to-left {
+	display:inline;
+	text-align: left;
+	width:10rem;
+}
+
+.to-left > * {
+	display:inline;
+	font-size: 1.6rem;;
+	padding: 0.2rem 0.5rem;
+	color: var(--secondary);
+	font-family: 'Inter';
+	font-weight: 400;
+	cursor: pointer;
+}
+
+.to-right {
+	display: inline-block;
+	text-align: right;
+}
+
+.to-right > * {
+	display:inline-block;
+	font-size: 1.6rem;
+	padding: 0.2rem 0.5rem;
+	color: var(--secondary);
+	font-family: 'Inter';
+	font-weight: 400;
+	cursor: pointer;
+}
+
+.member-wrapper {
+	opacity:25%;
+}
+
+.timer-button {
+	font-family: 'Inter';
+	font-weight: 200 !important;
+	font-size: 5rem;
+	text-align: center;
+}
+
+.quarter {
+	text-align:center;
+	font-size:2.5rem;
+	opacity: 75%;
+	font-family: 'Inter';
+	font-weight:700;
+}
