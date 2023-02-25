@@ -5,9 +5,14 @@
 	--light-mode-primary: #ff0066;
 	--light-mode-secondary: #000;
 	--light-mode-bg: #fff;
+	/**
 	--primary: #ff0066;
 	--secondary: #000;
 	--bg: #fff;
+	*/
+	--primary: #00ff66;
+	--secondary: #fff;
+	--bg: #000;
 }
 * {
 	font-family: 'Playfair Display', serif;
@@ -112,4 +117,20 @@ body {
 	opacity: 75%;
 	font-family: 'Inter';
 	font-weight:700;
+}
+
+.personal-stats {
+	font-size: 1.5rem;
+	font-family: 'Inter';
+	font-weight: 300;
+}
+
+.foul-color {
+	color: var(--primary);
+}
+
+span {
+		-webkit-user-select: none; /* Safari */
+		-ms-user-select: none; /* IE 10 and IE 11 */
+		user-select: none; /* Standard syntax */
 }

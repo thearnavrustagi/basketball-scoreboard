@@ -1,0 +1,161 @@
+{
+    "events": [
+        "[ 11:59 ] Mudit scored 3 points !",
+        "[ 11:59 ] Mudit scored 3 points !",
+        "[ 11:59 ] Mudit scored 3 points !",
+        "[ 11:59 ] Mudit scored 3 points !",
+        "[ 11:59 ] Mudit scored 3 points !",
+        "[ 11:58 ] Mudit scored 3 points !",
+        "[ 11:58 ] Mudit scored 3 points !",
+        "[ 11:58 ] Mudit scored 3 points !",
+        "[ 11:57 ] Eshwar scored 2 points !",
+        "[ 11:57 ] Eshwar scored 2 points !",
+        "[ 11:57 ] Eshwar scored 2 points !",
+        "[ 11:55 ] Bilawal scored 2 points !",
+        "[ 11:55 ] Bilawal scored 2 points !",
+        "[ 11:55 ] Bilawal scored 2 points !",
+        "[ 11:54 ] Arnav scored 1 points !",
+        "[ 11:53 ] Arnav scored 1 points !",
+        "[ 11:53 ] Arnav scored 1 points !"
+    ],
+    "id": 1677270070.1017601,
+    "team1": {
+        "name": "white",
+        "players": {
+            "Anshuman": {
+                "fouls": 0,
+                "name": "Anshuman",
+                "score": []
+            },
+            "Dhruv": {
+                "fouls": 0,
+                "name": "Dhruv",
+                "score": []
+            },
+            "Nimrat": {
+                "fouls": 0,
+                "name": "Nimrat",
+                "score": []
+            },
+            "Priyanshu": {
+                "fouls": 0,
+                "name": "Priyanshu",
+                "score": []
+            },
+            "Purv": {
+                "fouls": 0,
+                "name": "Purv",
+                "score": []
+            },
+            "Rishav": {
+                "fouls": 0,
+                "name": "Rishav",
+                "score": []
+            },
+            "Sakarth": {
+                "fouls": 0,
+                "name": "Sakarth",
+                "score": []
+            }
+        },
+        "quarters": [
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            }
+        ],
+        "score": 0
+    },
+    "team2": {
+        "name": "black",
+        "players": {
+            "Anish": {
+                "fouls": 0,
+                "name": "Anish",
+                "score": []
+            },
+            "Arnav": {
+                "fouls": 0,
+                "name": "Arnav",
+                "score": [
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "Bilawal": {
+                "fouls": 0,
+                "name": "Bilawal",
+                "score": [
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "Eshwar": {
+                "fouls": 0,
+                "name": "Eshwar",
+                "score": [
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "Harsh": {
+                "fouls": 0,
+                "name": "Harsh",
+                "score": []
+            },
+            "Mudit": {
+                "fouls": 0,
+                "name": "Mudit",
+                "score": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ]
+            },
+            "Pratham": {
+                "fouls": 0,
+                "name": "Pratham",
+                "score": []
+            }
+        },
+        "quarters": [
+            {
+                "fouls": 0,
+                "score": 39
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            }
+        ],
+        "score": 39
+    }
+}

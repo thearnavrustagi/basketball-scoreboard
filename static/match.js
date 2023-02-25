@@ -76,16 +76,21 @@ player_is_active = player => activePlayers[playerToTeam[player]].includes(player
 foul_player = player => {
     team = playerToTeam[player]
     game[team].players[player].fouls += 1
+    if(game[team].players[player].fouls >= 5) {
+        $(`${player}-name`).style.textDecoration = "line-through"
+    }
     add_event(`${player} committed a foul and has ${game[team].players[player].fouls} fouls`)
     foul_team (team)
+    update_player_score_UI(player)
 }
+
 
 foul_team = team => {
     game[team].quarters[quarter_number].fouls += 1
     fouls = game[team].quarters[quarter_number].fouls
     console.log(fouls)
-    add_event(`${team.name} got a foul, having a total of ${fouls} fouls `)
-    if (fouls > 5) add_event(`${team.name} is in foul trouble !`)
+    add_event(`${game[team].name} got a foul, having a total of ${fouls} fouls `)
+    if (fouls > 4) add_event(`${game[team].name} is in foul trouble !`)
     update_team_ui(team)
 }
 
@@ -101,11 +106,20 @@ score_player = (player,score) => {
     game[team].quarters[quarter_number].score += score
     add_event(`${player} scored ${score} points !`)
     update_team_ui(team)
+    update_player_score_UI(player)
 }
 
 update_team_ui = teamname => {
     $(`${teamname}-score`).textContent = ""+game[teamname].score
     $(`${teamname}-fouls`).textContent = ""+game[teamname].quarters[quarter_number].fouls
+}
+
+update_player_score_UI = player => {
+    fouls = game[team].players[player].fouls
+    score = game[team].players[player].score.reduce((_sum,a) => _sum+a,0)
+
+    $(`${player}-score`).textContent = ""+score;
+    $(`${player}-fouls`).textContent = ""+fouls;
 }
 
 my_alert = str => {

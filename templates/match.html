@@ -3,7 +3,7 @@
 	<link rel="stylesheet" href="/static/index.css">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700;900&family=Playfair+Display:wght@400;900&family=Raleway:wght@300&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;700;900&family=Playfair+Display:wght@400;900&family=Raleway:wght@300&display=swap" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
@@ -24,7 +24,11 @@
 						{% endfor %}
 					</div>
 					 <div class="column is-5" style="padding : 0 !important">
-						<p class="members" onclick="manageMembers(this.textContent)">{{i}}</p>
+						<p class="members" id="{{i}}-name" onclick="manageMembers(this.textContent)">{{i}}</p>
+					</div>
+					<div class="column is-1 left-team" style="padding : 0 !important">
+						<p id="{{i}}-score"class="personal-stats">0</p>
+						<p id="{{i}}-fouls"class="personal-stats foul-color" style="font-size: 0.9rem">0</p>
 					</div>
 				</div>
 			{% endfor %}
@@ -43,6 +47,10 @@
 			<h2 class="score"><span id="team2-score" class="score">0</span><span class="fouls" id="team2-fouls">0</span></h2>
 			{% for i in members_2 %}
 				<div class="member-wrapper columns" style="padding : 0 !important" id="{{i}}">
+					<div class="column is-1 right-team" style="padding : 0 !important">
+						<p id="{{i}}-score" class="personal-stats">0</p>
+						<p id="{{i}}-fouls" class="personal-stats foul-color" style="font-size: 0.9rem">0</p>
+					</div>
 					 <div class="column is-5" style="padding : 0 !important">
 						<p class="members" onclick="manageMembers(this.textContent)">{{i}}</p>
 					</div>

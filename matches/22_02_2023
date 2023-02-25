@@ -1,0 +1,138 @@
+{
+    "events": [
+        "[ 11:58 ] Dhruv scored 3 points !",
+        "[ 11:58 ] Sakarth scored 2 points !",
+        "[ 11:57 ] Purv scored 3 points !",
+        "[ 11:56 ] Purv committed a foul and has 1 fouls"
+    ],
+    "id": 1677048023.7394323,
+    "team1": {
+        "name": "white",
+        "players": {
+            "Anshuman": {
+                "fouls": 0,
+                "name": "Anshuman",
+                "score": []
+            },
+            "Dhruv": {
+                "fouls": 0,
+                "name": "Dhruv",
+                "score": [
+                    3
+                ]
+            },
+            "Nimrat": {
+                "fouls": 0,
+                "name": "Nimrat",
+                "score": []
+            },
+            "Priyanshu": {
+                "fouls": 0,
+                "name": "Priyanshu",
+                "score": []
+            },
+            "Purv": {
+                "fouls": 1,
+                "name": "Purv",
+                "score": [
+                    3
+                ]
+            },
+            "Rishav": {
+                "fouls": 0,
+                "name": "Rishav",
+                "score": []
+            },
+            "Sakarth": {
+                "fouls": 0,
+                "name": "Sakarth",
+                "score": [
+                    2
+                ]
+            }
+        },
+        "quarters": [
+            {
+                "fouls": 0,
+                "score": 8
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            }
+        ],
+        "score": 8
+    },
+    "team2": {
+        "name": "black",
+        "players": {
+            "Anish": {
+                "fouls": 0,
+                "name": "Anish",
+                "score": []
+            },
+            "Arnav": {
+                "fouls": 0,
+                "name": "Arnav",
+                "score": []
+            },
+            "Bilawal": {
+                "fouls": 0,
+                "name": "Bilawal",
+                "score": []
+            },
+            "Eshwar": {
+                "fouls": 0,
+                "name": "Eshwar",
+                "score": []
+            },
+            "Harsh": {
+                "fouls": 0,
+                "name": "Harsh",
+                "score": []
+            },
+            "Mudit": {
+                "fouls": 0,
+                "name": "Mudit",
+                "score": []
+            },
+            "Pratham": {
+                "fouls": 0,
+                "name": "Pratham",
+                "score": []
+            }
+        },
+        "quarters": [
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            }
+        ],
+        "score": 0
+    }
+}        "score": 0
+            }
+        ],
+        "score": 0
+    }
+}
