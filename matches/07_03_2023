@@ -1,0 +1,276 @@
+{
+    "events": [
+        "[ 11:33 ] Negi scored 2 points !",
+        "[ 11:18 ] Negi scored 2 points !",
+        "[ 11:3 ] Sakarth committed a foul and has 1 fouls",
+        "[ 11:3 ] white got a foul, having a total of 1 fouls ",
+        "[ 10:18 ] Eshwar scored 2 points !",
+        "[ 9:54 ] Mudit scored 1 points !",
+        "[ 9:49 ] Eshwar committed a foul and has 1 fouls",
+        "[ 9:49 ] white got a foul, having a total of 2 fouls ",
+        "[ 9:32 ] Sakarth scored 2 points !",
+        "[ 9:11 ] Risu scored 2 points !",
+        "[ 8:38 ] Priyansu scored 2 points !",
+        "[ 7:45 ] Negi committed a foul and has 1 fouls",
+        "[ 7:45 ] white got a foul, having a total of 3 fouls ",
+        "[ 6:48 ] Billa committed a foul and has 1 fouls",
+        "[ 6:48 ] black got a foul, having a total of 1 fouls ",
+        "[ 5:15 ] Eshwar scored 2 points !",
+        "[ 4:49 ] Risu scored 2 points !",
+        "[ 2:57 ] Negi scored 3 points !",
+        "[ 2:51 ] Pratham is substituting Arnav",
+        "[ 2:9 ] Mudit scored 2 points !",
+        "[ 1:19 ] Eshwar scored 2 points !",
+        "[ 0:30 ] Eshwar committed a foul and has 2 fouls",
+        "[ 0:30 ] white got a foul, having a total of 4 fouls ",
+        "[ 0:25 ] Billa scored 3 points !",
+        "[ -1:59 ] Quarter 1 ended",
+        "[ 11:31 ] Anish is substituting Risu",
+        "[ 11:4 ] Eshwar scored 2 points !",
+        "[ 9:33 ] Mudit scored 2 points !",
+        "[ 9:31 ] Eshwar committed a foul and has 3 fouls",
+        "[ 9:31 ] white got a foul, having a total of 1 fouls ",
+        "[ 9:27 ] Mudit scored 1 points !",
+        "[ 6:44 ] Anish scored 2 points !",
+        "[ 5:5 ] Sakarth scored 2 points !",
+        "[ 4:48 ] Eshwar committed a foul and has 4 fouls",
+        "[ 4:48 ] white got a foul, having a total of 2 fouls ",
+        "[ 4:46 ] Arnav is substituting Eshwar",
+        "[ 4:43 ] Dhruv scored 1 points !",
+        "[ 4:36 ] Eshwar is substituting Arnav",
+        "[ 3:27 ] Negi scored 2 points !",
+        "[ 3:14 ] Risu is substituting Anish",
+        "[ 3:10 ] Risu committed a foul and has 1 fouls",
+        "[ 3:10 ] black got a foul, having a total of 1 fouls ",
+        "[ 2:21 ] Negi scored 2 points !",
+        "[ 2:0 ] Billa scored 3 points !",
+        "[ 0:28 ] Sakarth scored 2 points !",
+        "[ -1:59 ] Quarter 2 ended",
+        "[ 11:59 ] Risu scored 2 points !",
+        "[ 11:45 ] Billa scored 3 points !",
+        "[ 10:52 ] Billa scored 2 points !",
+        "[ 9:8 ] Sakarth scored 2 points !",
+        "[ 8:16 ] Dhruv scored 2 points !",
+        "[ 8:9 ] Arnav is substituting Eshwar",
+        "[ 8:7 ] Dhruv scored 1 points !",
+        "[ 7:20 ] Arnav committed a foul and has 1 fouls",
+        "[ 7:20 ] white got a foul, having a total of 1 fouls ",
+        "[ 7:15 ] Dhruv scored 2 points !",
+        "[ 6:29 ] Dhruv scored 2 points !",
+        "[ 5:4 ] Sakarth scored 2 points !",
+        "[ 3:11 ] Negi scored 2 points !",
+        "[ 2:50 ] Priyansu scored 2 points !",
+        "[ 2:32 ] Risu scored 2 points !",
+        "[ 2:6 ] Mudit scored 2 points !",
+        "[ 1:29 ] Negi scored 2 points !",
+        "[ 1:5 ] Arnav committed a foul and has 2 fouls",
+        "[ 1:5 ] white got a foul, having a total of 2 fouls ",
+        "[ 0:33 ] Dhruv scored 2 points !",
+        "[ 0:19 ] Negi scored 2 points !",
+        "[ -1:59 ] Quarter 3 ended",
+        "[ 10:59 ] Eshwar is substituting Arnav",
+        "[ 10:58 ] Eshwar scored 2 points !",
+        "[ 10:55 ] Dhruv committed a foul and has 1 fouls",
+        "[ 10:55 ] black got a foul, having a total of 1 fouls ",
+        "[ 10:51 ] Sakarth scored 2 points !",
+        "[ 10:16 ] Eshwar scored 2 points !",
+        "[ 9:47 ] Sakarth scored 2 points !",
+        "[ 8:41 ] Sakarth scored 2 points !",
+        "[ 8:17 ] Negi scored 2 points !",
+        "[ 7:52 ] Sakarth committed a foul and has 2 fouls",
+        "[ 7:52 ] white got a foul, having a total of 1 fouls ",
+        "[ 7:30 ] Mudit scored 2 points !",
+        "[ 7:4 ] Billa committed a foul and has 2 fouls",
+        "[ 7:4 ] black got a foul, having a total of 2 fouls ",
+        "[ 6:25 ] Risu scored 2 points !",
+        "[ 5:38 ] Purv scored 2 points !",
+        "[ 4:44 ] Eshwar scored 2 points !",
+        "[ 4:7 ] Priyansu scored 2 points !",
+        "[ 3:46 ] Eshwar scored 2 points !",
+        "[ 2:55 ] Risu scored 2 points !",
+        "[ 2:14 ] Eshwar scored 2 points !",
+        "[ 1:43 ] Negi committed a foul and has 2 fouls",
+        "[ 1:43 ] white got a foul, having a total of 2 fouls ",
+        "[ 1:41 ] Risu scored 1 points !",
+        "[ 1:26 ] Dhruv scored 2 points !",
+        "[ 1:15 ] Billa committed a foul and has 3 fouls",
+        "[ 1:15 ] black got a foul, having a total of 3 fouls ",
+        "[ 0:53 ] Purv scored 2 points !",
+        "[ -1:59 ] Quarter 4 ended"
+    ],
+    "id": 1678194619.5945299,
+    "team1": {
+        "name": "black",
+        "players": {
+            "Anish": {
+                "fouls": 0,
+                "name": "Anish",
+                "score": [
+                    2
+                ]
+            },
+            "Billa": {
+                "fouls": 3,
+                "name": "Billa",
+                "score": [
+                    3,
+                    3,
+                    3,
+                    2
+                ]
+            },
+            "Dhruv": {
+                "fouls": 1,
+                "name": "Dhruv",
+                "score": [
+                    1,
+                    2,
+                    1,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "Mudit": {
+                "fouls": 0,
+                "name": "Mudit",
+                "score": [
+                    1,
+                    2,
+                    2,
+                    1,
+                    2,
+                    2
+                ]
+            },
+            "Purv": {
+                "fouls": 0,
+                "name": "Purv",
+                "score": [
+                    2,
+                    2
+                ]
+            },
+            "Risu": {
+                "fouls": 1,
+                "name": "Risu",
+                "score": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    1
+                ]
+            }
+        },
+        "quarters": [
+            {
+                "fouls": 1,
+                "score": 10
+            },
+            {
+                "fouls": 1,
+                "score": 9
+            },
+            {
+                "fouls": 0,
+                "score": 20
+            },
+            {
+                "fouls": 3,
+                "score": 13
+            }
+        ],
+        "score": 52
+    },
+    "team2": {
+        "name": "white",
+        "players": {
+            "Arnav": {
+                "fouls": 2,
+                "name": "Arnav",
+                "score": []
+            },
+            "Eshwar": {
+                "fouls": 15,
+                "name": "Eshwar",
+                "score": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "Negi": {
+                "fouls": 2,
+                "name": "Negi",
+                "score": [
+                    2,
+                    2,
+                    3,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "Pratham": {
+                "fouls": 0,
+                "name": "Pratham",
+                "score": []
+            },
+            "Priyansu": {
+                "fouls": 0,
+                "name": "Priyansu",
+                "score": [
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "Sakarth": {
+                "fouls": 2,
+                "name": "Sakarth",
+                "score": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            }
+        },
+        "quarters": [
+            {
+                "fouls": 4,
+                "score": 17
+            },
+            {
+                "fouls": 2,
+                "score": 10
+            },
+            {
+                "fouls": 2,
+                "score": 12
+            },
+            {
+                "fouls": 2,
+                "score": 20
+            }
+        ],
+        "score": 59
+    }
+}

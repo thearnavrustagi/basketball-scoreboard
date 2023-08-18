@@ -1,0 +1,117 @@
+[ 12:0 ] Arnav is substituting Anish
+[ 11:32 ] Rishav scored 2 points !
+[ 10:42 ] Billa committed a foul and has 1 fouls
+[ 10:42 ] white got a foul, having a total of 1 fouls 
+[ 10:15 ] Billa scored 3 points !
+[ 9:56 ] Sakarth scored 2 points !
+[ 9:27 ] Sakarth scored 2 points !
+[ 8:13 ] Sakarth scored 2 points !
+[ 7:9 ] Mudit committed a foul and has 1 fouls
+[ 7:9 ] white got a foul, having a total of 2 fouls 
+[ 7:4 ] Purv scored 3 points !
+[ 6:29 ] Mudit scored 2 points !
+[ 6:13 ] Sakarth committed a foul and has 1 fouls
+[ 6:13 ] black got a foul, having a total of 1 fouls 
+[ 5:20 ] Mudit scored 2 points !
+[ 5:16 ] Rishav committed a foul and has 1 fouls
+[ 5:16 ] black got a foul, having a total of 2 fouls 
+[ 5:6 ] Sakarth committed a foul and has 2 fouls
+[ 5:6 ] black got a foul, having a total of 3 fouls 
+[ 5:2 ] Mudit scored 1 points !
+[ 2:58 ] Sudo committed a foul and has 1 fouls
+[ 2:58 ] white got a foul, having a total of 3 fouls 
+[ 2:53 ] Sakarth scored 2 points !
+[ 2:26 ] Rishav scored 2 points !
+[ 2:3 ] Rishav committed a foul and has 2 fouls
+[ 2:3 ] black got a foul, having a total of 4 fouls 
+[ 1:53 ] Purv scored 3 points !
+[ 1:8 ] Dhruv scored 2 points !
+[ 0:13 ] Mudit scored 2 points !
+[ 0:6 ] Eshwar scored 2 points !
+[ 0:5 ] Eshwar scored 1 points !
+[ 0:3 ] Sudo committed a foul and has 2 fouls
+[ 0:3 ] white got a foul, having a total of 4 fouls 
+[ -1:59 ] Quarter 1 ended
+[ 12:0 ] Anish is substituting Arnav
+[ 11:38 ] Mudit scored 2 points !
+[ 10:11 ] Anish scored 2 points !
+[ 9:42 ] Sakarth scored 2 points !
+[ 8:6 ] Anshu scored 2 points !
+[ 7:54 ] Eshwar scored 2 points !
+[ 7:33 ] Purv scored 2 points !
+[ 7:18 ] Dhruv scored 2 points !
+[ 7:4 ] Sakarth scored 2 points !
+[ 6:35 ] Dhruv scored 2 points !
+[ 5:47 ] Rishav scored 2 points !
+[ 5:19 ] Anish scored 2 points !
+[ 4:52 ] Mudit scored 2 points !
+[ 4:36 ] Rishav scored 2 points !
+[ 4:7 ] Billa committed a foul and has 2 fouls
+[ 4:7 ] white got a foul, having a total of 1 fouls 
+[ 4:0 ] Anish scored 2 points !
+[ 3:41 ] Mudit scored 2 points !
+[ 2:21 ] Eshwar committed a foul and has 1 fouls
+[ 2:21 ] black got a foul, having a total of 1 fouls 
+[ 2:2 ] Mudit scored 1 points !
+[ 1:11 ] Mudit scored 2 points !
+[ 0:33 ] Sudo scored 2 points !
+[ 0:13 ] Rishav scored 2 points !
+[ -1:59 ] Quarter 2 ended
+[ 12:0 ] Arnav is substituting Anish
+[ 11:25 ] Sakarth scored 2 points !
+[ 10:57 ] Rishav scored 2 points !
+[ 10:29 ] Dhruv scored 2 points !
+[ 10:1 ] Mudit scored 3 points !
+[ 8:58 ] Purv scored 2 points !
+[ 8:30 ] Sudo scored 2 points !
+[ 8:4 ] Anshu scored 2 points !
+[ 7:3 ] Eshwar scored 2 points !
+[ 6:15 ] Mudit scored 2 points !
+[ 4:55 ] Arnav committed a foul and has 1 fouls
+[ 4:55 ] black got a foul, having a total of 1 fouls 
+[ 4:37 ] Purv scored 2 points !
+[ 4:18 ] Sudo scored 2 points !
+[ 3:34 ] Sudo scored 2 points !
+[ 3:4 ] Mudit scored 2 points !
+[ 3:2 ] Pratham is substituting Anshu
+[ 2:15 ] Arnav committed a foul and has 2 fouls
+[ 2:15 ] black got a foul, having a total of 2 fouls 
+[ 2:12 ] Billa scored 1 points !
+[ 2:7 ] Billa scored 1 points !
+[ 0:54 ] Sudo committed a foul and has 3 fouls
+[ 0:54 ] white got a foul, having a total of 1 fouls 
+[ 0:27 ] Arnav committed a foul and has 3 fouls
+[ 0:27 ] black got a foul, having a total of 3 fouls 
+[ 0:22 ] Mudit scored 3 points !
+[ -1:59 ] Quarter 3 ended
+[ 11:59 ] Anish is substituting Arnav
+[ 11:50 ] Mudit scored 2 points !
+[ 10:40 ] Mudit scored 2 points !
+[ 9:41 ] Rishav scored 2 points !
+[ 9:25 ] Dhruv scored 2 points !
+[ 8:34 ] Sudo committed a foul and has 4 fouls
+[ 8:34 ] white got a foul, having a total of 1 fouls 
+[ 7:46 ] Rishav scored 2 points !
+[ 6:35 ] Rishav committed a foul and has 3 fouls
+[ 6:35 ] black got a foul, having a total of 1 fouls 
+[ 6:33 ] Mudit scored 1 points !
+[ 6:24 ] Anish scored 2 points !
+[ 6:1 ] Purv scored 2 points !
+[ 5:59 ] Pratham committed a foul and has 1 fouls
+[ 5:59 ] white got a foul, having a total of 2 fouls 
+[ 5:56 ] Purv scored 1 points !
+[ 5:24 ] Eshwar committed a foul and has 2 fouls
+[ 5:24 ] black got a foul, having a total of 2 fouls 
+[ 5:6 ] Billa committed a foul and has 3 fouls
+[ 5:6 ] white got a foul, having a total of 3 fouls 
+[ 3:47 ] Mudit scored 2 points !
+[ 3:42 ] Eshwar committed a foul and has 3 fouls
+[ 3:42 ] black got a foul, having a total of 3 fouls 
+[ 3:24 ] Rishav scored 2 points !
+[ 2:37 ] Purv scored 3 points !
+[ 2:17 ] Sakarth committed a foul and has 3 fouls
+[ 2:17 ] black got a foul, having a total of 4 fouls 
+[ 2:15 ] Mudit scored 1 points !
+[ 1:55 ] Mudit scored 2 points !
+[ -1:59 ] Quarter 4 ended
+[ -1:58 ] Quarter 5 ended

@@ -1,0 +1,114 @@
+{
+    "events": [
+        "[ 11:59 ] Priyansu is substituting Pratham"
+    ],
+    "id": 1692340602.62716,
+    "team1": {
+        "name": "white",
+        "players": {
+            "Arnav": {
+                "fouls": 0,
+                "name": "Arnav",
+                "score": []
+            },
+            "Eshwar": {
+                "fouls": 0,
+                "name": "Eshwar",
+                "score": []
+            },
+            "Negi": {
+                "fouls": 0,
+                "name": "Negi",
+                "score": []
+            },
+            "Pratham": {
+                "fouls": 0,
+                "name": "Pratham",
+                "score": []
+            },
+            "Priyansu": {
+                "fouls": 0,
+                "name": "Priyansu",
+                "score": []
+            },
+            "Sakarth": {
+                "fouls": 0,
+                "name": "Sakarth",
+                "score": []
+            }
+        },
+        "quarters": [
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            }
+        ],
+        "score": 0
+    },
+    "team2": {
+        "name": "black",
+        "players": {
+            "Anish": {
+                "fouls": 0,
+                "name": "Anish",
+                "score": []
+            },
+            "Billa": {
+                "fouls": 0,
+                "name": "Billa",
+                "score": []
+            },
+            "Dhruv": {
+                "fouls": 0,
+                "name": "Dhruv",
+                "score": []
+            },
+            "Mudit": {
+                "fouls": 0,
+                "name": "Mudit",
+                "score": []
+            },
+            "Purv": {
+                "fouls": 0,
+                "name": "Purv",
+                "score": []
+            },
+            "Risu": {
+                "fouls": 0,
+                "name": "Risu",
+                "score": []
+            }
+        },
+        "quarters": [
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            }
+        ],
+        "score": 0
+    }
+}
