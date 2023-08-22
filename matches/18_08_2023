@@ -1,45 +1,138 @@
 {
     "events": [
-        "[ 11:59 ] Priyansu is substituting Pratham"
+        "[ 0:5 ] Pratham committed a foul and has 1 fouls",
+        "[ 0:5 ] white got a foul, having a total of 1 fouls ",
+        "[ 0:5 ] Pratham committed a foul and has 2 fouls",
+        "[ 0:5 ] white got a foul, having a total of 2 fouls ",
+        "[ 0:4 ] Pratham committed a foul and has 3 fouls",
+        "[ 0:4 ] white got a foul, having a total of 3 fouls ",
+        "[ 0:4 ] Pratham committed a foul and has 4 fouls",
+        "[ 0:4 ] white got a foul, having a total of 4 fouls ",
+        "[ 0:4 ] Pratham committed a foul and has 5 fouls",
+        "[ 0:4 ] white got a foul, having a total of 5 fouls ",
+        "[ 0:4 ] white is in foul trouble !",
+        "[ 0:4 ] Pratham committed a foul and has 6 fouls",
+        "[ 0:4 ] white got a foul, having a total of 6 fouls ",
+        "[ 0:4 ] white is in foul trouble !",
+        "[ 0:4 ] Pratham committed a foul and has 7 fouls",
+        "[ 0:4 ] white got a foul, having a total of 7 fouls ",
+        "[ 0:4 ] white is in foul trouble !",
+        "[ 0:3 ] Pratham committed a foul and has 8 fouls",
+        "[ 0:3 ] white got a foul, having a total of 8 fouls ",
+        "[ 0:3 ] white is in foul trouble !",
+        "[ 0:3 ] Pratham committed a foul and has 9 fouls",
+        "[ 0:3 ] white got a foul, having a total of 9 fouls ",
+        "[ 0:3 ] white is in foul trouble !",
+        "[ 0:3 ] Pratham committed a foul and has 10 fouls",
+        "[ 0:3 ] white got a foul, having a total of 10 fouls ",
+        "[ 0:3 ] white is in foul trouble !",
+        "[ 0:2 ] Arnav committed a foul and has 1 fouls",
+        "[ 0:2 ] white got a foul, having a total of 11 fouls ",
+        "[ 0:2 ] white is in foul trouble !",
+        "[ 0:1 ] Arnav committed a foul and has 2 fouls",
+        "[ 0:1 ] white got a foul, having a total of 12 fouls ",
+        "[ 0:1 ] white is in foul trouble !",
+        "[ 0:1 ] Arnav committed a foul and has 3 fouls",
+        "[ 0:1 ] white got a foul, having a total of 13 fouls ",
+        "[ 0:1 ] white is in foul trouble !",
+        "[ 0:1 ] Arnav committed a foul and has 4 fouls",
+        "[ 0:1 ] white got a foul, having a total of 14 fouls ",
+        "[ 0:1 ] white is in foul trouble !",
+        "[ 0:1 ] Arnav committed a foul and has 5 fouls",
+        "[ 0:1 ] white got a foul, having a total of 15 fouls ",
+        "[ 0:1 ] white is in foul trouble !",
+        "[ 0:1 ] Arnav committed a foul and has 6 fouls",
+        "[ 0:1 ] white got a foul, having a total of 16 fouls ",
+        "[ 0:1 ] white is in foul trouble !",
+        "[ 0:0 ] Arnav committed a foul and has 7 fouls",
+        "[ 0:0 ] white got a foul, having a total of 17 fouls ",
+        "[ 0:0 ] white is in foul trouble !",
+        "[ 0:0 ] Arnav committed a foul and has 8 fouls",
+        "[ 0:0 ] white got a foul, having a total of 18 fouls ",
+        "[ 0:0 ] white is in foul trouble !",
+        "[ 0:0 ] Arnav committed a foul and has 9 fouls",
+        "[ 0:0 ] white got a foul, having a total of 19 fouls ",
+        "[ 0:0 ] white is in foul trouble !",
+        "[ 0:0 ] Arnav committed a foul and has 10 fouls",
+        "[ 0:0 ] white got a foul, having a total of 20 fouls ",
+        "[ 0:0 ] white is in foul trouble !",
+        "[ 0:0 ] Arnav committed a foul and has 11 fouls",
+        "[ 0:0 ] white got a foul, having a total of 21 fouls ",
+        "[ 0:0 ] white is in foul trouble !",
+        "[ -1:59 ] Quarter 1 ended",
+        "[ 0:51 ] Priyansu is substituting Pratham",
+        "[ 0:7 ] Pratham is substituting Arnav",
+        "[ -1:59 ] Quarter 2 ended",
+        "[ -1:59 ] Quarter 3 ended",
+        "[ 0:5 ] Sakarth scored 3 points !",
+        "[ 0:5 ] Sakarth scored 3 points !",
+        "[ 0:5 ] Sakarth scored 3 points !",
+        "[ 0:5 ] Sakarth scored 3 points !",
+        "[ 0:4 ] Negi scored 3 points !",
+        "[ 0:4 ] Negi scored 3 points !",
+        "[ 0:2 ] Eshwar scored 3 points !",
+        "[ 0:2 ] Eshwar scored 3 points !",
+        "[ 0:1 ] Pratham scored 3 points !",
+        "[ 0:1 ] Pratham scored 3 points !",
+        "[ 0:0 ] Priyansu scored 3 points !",
+        "[ 0:0 ] Priyansu scored 3 points !",
+        "[ -1:59 ] Quarter 4 ended"
     ],
-    "id": 1692340602.62716,
+    "id": 1692341488.9354002,
     "team1": {
         "name": "white",
         "players": {
             "Arnav": {
-                "fouls": 0,
+                "fouls": 11,
                 "name": "Arnav",
                 "score": []
             },
             "Eshwar": {
                 "fouls": 0,
                 "name": "Eshwar",
-                "score": []
+                "score": [
+                    3,
+                    3
+                ]
             },
             "Negi": {
                 "fouls": 0,
                 "name": "Negi",
-                "score": []
+                "score": [
+                    3,
+                    3
+                ]
             },
             "Pratham": {
-                "fouls": 0,
+                "fouls": 10,
                 "name": "Pratham",
-                "score": []
+                "score": [
+                    3,
+                    3
+                ]
             },
             "Priyansu": {
                 "fouls": 0,
                 "name": "Priyansu",
-                "score": []
+                "score": [
+                    3,
+                    3
+                ]
             },
             "Sakarth": {
                 "fouls": 0,
                 "name": "Sakarth",
-                "score": []
+                "score": [
+                    3,
+                    3,
+                    3,
+                    3
+                ]
             }
         },
         "quarters": [
             {
-                "fouls": 0,
+                "fouls": 21,
                 "score": 0
             },
             {
@@ -52,10 +145,10 @@
             },
             {
                 "fouls": 0,
-                "score": 0
+                "score": 36
             }
         ],
-        "score": 0
+        "score": 36
     },
     "team2": {
         "name": "black",

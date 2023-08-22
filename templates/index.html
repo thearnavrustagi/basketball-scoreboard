@@ -1,7 +1,50 @@
-<!doctype html>
-<title>Hello from Flask</title>
-{% if name %}
-  <h1>Hello {{ name }}!</h1>
-{% else %}
-  <h1>Hello, World!</h1>
-{% endif %}
+<!DOCTYPE html>
+<html>
+	<head></head>
+	<body>
+		<input id="team_1" placeholder="team name"><br>
+		{% for n in range(0,N) %}
+		<input id="1-{{n}}" type="text" placeholder="member {{n}}">
+		{% endfor %}
+		<br><br><br>
+		<input id="team_2" placeholder="team name"><br>
+		{% for n in range(0,N) %}
+		<input id="2-{{n}}" type="text" placeholder="member {{n}}">
+		{% endfor %}
+		<br><br><br>
+		<button onclick="submit()">Submit</button>
+		<script>
+			submit = () => {
+				N = 12
+				team_1 = []
+				team_2 = []
+				for (i=0;i<N;i++) {
+					team_1.push(document.getElementById("1-"+i).value)
+					team_2.push(document.getElementById("2-"+i).value)
+				}
+				console.log(team_1)
+				console.log(team_2)
+
+				t1_name = document.getElementById("team_1").value
+				t2_name = document.getElementById("team_2").value
+
+				obj = {}
+				obj[t1_name] = team_1
+				obj[t2_name] = team_2
+				console.log(obj)
+
+				fetch (`/api/initialize_teams`,{
+					method: 'POST',
+					headers: {
+						'Accept' : 'application/json',
+						'Content-Type': 'application/json'
+					},
+					body: JSON.stringify(obj)
+				}).
+				then (r => r.text()).
+				then (s => window.open(s,"_self"))
+			}
+
+		</script>
+	</body>
+</html>

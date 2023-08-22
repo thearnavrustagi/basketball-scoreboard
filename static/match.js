@@ -9,7 +9,7 @@ var swappable = {
 var quarter_number = 0
 
 resetClock = () => {
-    clock = {"minutes":12,"seconds":0,"running":false}
+    clock = {"minutes":1,"seconds":0,"running":false}
     update_timer_ui()
 }
 var clock = {}

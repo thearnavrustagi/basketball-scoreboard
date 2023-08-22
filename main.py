@@ -1,5 +1,5 @@
 from flask import Flask
-from flask import render_template, request
+from flask import render_template, request, redirect
 from time import time
 from datetime import datetime
 import json
@@ -7,8 +7,8 @@ import json
 app = Flask(__name__,static_folder="static")
 
 @app.route("/",methods=["GET"])
-def hello_world():
-    return render_template("index.html")
+def index():
+    return render_template("index.html",N=12)
 
 @app.route("/<string:team1>/<string:team2>",methods=["GET"])
 def load_match_ui (team1,team2):
@@ -29,13 +29,24 @@ def start_match(team1:str,team2:str):
         }
 
         for player in open(team).read().splitlines():
+            player = player.strip()
+            if not player: continue
             game[f"team{i}"]["players"][player] = {"name":player, "score" : [], "fouls": 0}
     
     return game
 
+@app.route ("/api/initialize_teams",methods=['POST'])
+def initialize_teams():
+    content = request.get_json()
+    for k,v in content.items():
+        with open (k,"w+") as f:
+            txt = "\n".join([a.strip() for a in filter(lambda x:bool(x.strip()), v)])
+            f.write(txt)
+    t1,t2 = tuple(content.keys())
+    return f"/{t1}/{t2}"
+
 @app.route("/api/update_match/<game_id>",methods=["POST"])
 def update_match(game_id):
     content = request.get_json()
-    print(content)
-    json.dump(content,open(f"./matches/{datetime.fromtimestamp(float(game_id)).strftime('%d_%m_%Y')}","w+"),indent=4)
+    json.dump(content,open(f"./matches/{datetime.fromtimestamp(float(game_id)).strftime('%d_%m_%Y-%H:%M:%S')}","w+"),indent=4)
     return "OK"

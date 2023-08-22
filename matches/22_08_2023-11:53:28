@@ -1,0 +1,124 @@
+{
+    "events": [
+        "[ 0:58 ] fdfd scored 2 points !",
+        "[ 0:57 ] fdfd scored 2 points !",
+        "[ 0:57 ] fdfd scored 2 points !",
+        "[ 0:57 ] fdfd scored 2 points !",
+        "[ 0:57 ] fdfd scored 2 points !"
+    ],
+    "id": 1692685408.0058935,
+    "team1": {
+        "name": "team1",
+        "players": {
+            "eee3": {
+                "fouls": 0,
+                "name": "eee3",
+                "score": []
+            },
+            "emem2": {
+                "fouls": 0,
+                "name": "emem2",
+                "score": []
+            },
+            "lol2": {
+                "fouls": 0,
+                "name": "lol2",
+                "score": []
+            },
+            "mem0": {
+                "fouls": 0,
+                "name": "mem0",
+                "score": []
+            },
+            "mem2": {
+                "fouls": 0,
+                "name": "mem2",
+                "score": []
+            },
+            "mem22": {
+                "fouls": 0,
+                "name": "mem22",
+                "score": []
+            }
+        },
+        "quarters": [
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            }
+        ],
+        "score": 0
+    },
+    "team2": {
+        "name": "team2",
+        "players": {
+            "fddf": {
+                "fouls": 0,
+                "name": "fddf",
+                "score": []
+            },
+            "fdfd": {
+                "fouls": 0,
+                "name": "fdfd",
+                "score": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "fdfds": {
+                "fouls": 0,
+                "name": "fdfds",
+                "score": []
+            },
+            "fdfdss": {
+                "fouls": 0,
+                "name": "fdfdss",
+                "score": []
+            },
+            "ffddf": {
+                "fouls": 0,
+                "name": "ffddf",
+                "score": []
+            },
+            "okay": {
+                "fouls": 0,
+                "name": "okay",
+                "score": []
+            }
+        },
+        "quarters": [
+            {
+                "fouls": 0,
+                "score": 10
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            },
+            {
+                "fouls": 0,
+                "score": 0
+            }
+        ],
+        "score": 10
+    }
+}

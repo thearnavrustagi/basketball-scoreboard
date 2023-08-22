@@ -10,9 +10,9 @@
 	--secondary: #000;
 	--bg: #fff;
 	*/
-	--primary: #ff6600;
-	--secondary: #fff;
-	--bg: #000;
+	--primary: #ff0066;
+	--secondary: #000;
+	--bg: #fff;
 }
 * {
 	font-family: 'Playfair Display', serif;
@@ -47,7 +47,7 @@ body {
 .team-name {
 	font-family: 'Inter', sans-serif;
 	font-weight:900;
-	font-size:9vw;
+	font-size:7vw;
 }
 
 .score {
